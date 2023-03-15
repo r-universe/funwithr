@@ -1,5 +1,9 @@
 [
   {
+    "package": "LongMemoryTS",
+    "oncran": true
+  },
+  {
     "package": "MonteCarlo",
     "oncran": true
   }
